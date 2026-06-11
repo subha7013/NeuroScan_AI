@@ -1,0 +1,15 @@
+# Python / virtual‑env artefacts
+venv/
+__pycache__/
+*.py[cod]
+
+# Data / generated artefacts (keep them local)
+dataset/
+reports/
+history.db
+*.h5            # model file – keep out unless you want it versioned
+*.pdf
+
+# OS‑specific
+.DS_Store
+Thumbs.db

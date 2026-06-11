@@ -1,0 +1,11 @@
+tensorflow==2.21.0
+# keras is bundled with tensorflow; no separate package needed
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+scikit-learn
+reportlab
+# sqlite3 is part of Python's stdlib – no pip install needed
